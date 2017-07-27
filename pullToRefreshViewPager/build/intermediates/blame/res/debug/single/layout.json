@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\AndroidStudioWorkSpace\\MXQ\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\AndroidStudio\\AndroidStudioWorkSpace\\MXQ\\library\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\AndroidStudioWorkSpace\\MXQ\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\need_this_for_maven.xml",
+        "source": "D:\\AndroidStudio\\AndroidStudioWorkSpace\\MXQ\\pullToRefreshViewPager\\src\\main\\res\\layout\\need_this_for_maven.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\AndroidStudioWorkSpace\\MXQ\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\AndroidStudio\\AndroidStudioWorkSpace\\MXQ\\library\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    }
+]

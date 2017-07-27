@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\AndroidStudioWorkSpace\\MXQ\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\AndroidStudio\\AndroidStudioWorkSpace\\MXQ\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\AndroidStudioWorkSpace\\MXQ\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\AndroidStudio\\AndroidStudioWorkSpace\\MXQ\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]
